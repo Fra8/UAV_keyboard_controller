@@ -1,4 +1,4 @@
-# UAV_keyboard_controller
+# UAV keyboard controller
 
 **Authors:** Erika Cocca, Carola Motolese, Alberto Rivolta 
 
@@ -26,3 +26,6 @@ rosrun crm_ros controllore3
 	Use 'QE' to up/down
 	
 	Use 'ZX' to yaw counterclockwise/clockwise 
+
+## Documentation 
+Up-to-date documentation for this release is accessible from `./docs/html/index.html` .
