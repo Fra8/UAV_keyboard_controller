@@ -18,8 +18,6 @@ rosrun crm_ros controllore3
 
 ## Usage
 Reading from keyboard
-
-	---------------------------
 	
 	Use 'WS' to forward/back
 	
