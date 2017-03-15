@@ -18,8 +18,13 @@ rosrun crm_ros controllore3
 
 ## Usage
 Reading from keyboard
+
 	---------------------------
+	
 	Use 'WS' to forward/back
+	
 	Use 'AD' to left/right
+	
 	Use 'QE' to up/down
+	
 	Use 'ZX' to yaw counterclockwise/clockwise 
